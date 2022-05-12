@@ -1,0 +1,13 @@
+HTTP status codes
+    1XX Respuestas Afirmativas
+    2XX Respuestas satisfactorias
+    3XX Re-direcciones
+    4XX Error del cliente
+    5XX Error de servidor
+
+HTTP Methods
+    GET Lee datos del server (Solo Lectura)
+    HEAD Recupera datos de los headers (Solo Lectura)
+    POST Envía datos al server
+    PUT/PATCH Salva datos en el server
+    DELETE Borra datos del server
